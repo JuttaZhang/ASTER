@@ -1,2 +1,2 @@
 # ASTER
-The implement of ASTER.
+The implementation of ASTER.
