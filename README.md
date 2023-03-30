@@ -1,11 +1,12 @@
-# [TNNLS2023 This code is the implementation of ASTER
+# [TNNLS2023] This code is the implementation of ASTER
 [Adaptive Filter Pruning via Sensitivity Feedback](https://ieeexplore.ieee.org/document/10064249)
+
 Author: Yuyao Zhang and Nikolaos M. Freris
 
 The paper is accepted at the IEEE Transactions of Neural Networks and Learning Systems (TNNLS), 2023
 
 
-##Usage
+## Usage
 
 
 
