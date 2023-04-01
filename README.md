@@ -13,7 +13,7 @@ git clone https://github.com/JuttaZhang/ASTER.git
 ```
 Then, install PyTorch == 1.9.1+cu111\\
 prchvision == 0.10.1+cu111 \\
-ax-platform == 0.2.4 [Ax](https://github.com/facebook/Ax)\\
+ax-platform == 0.2.4 (Please check [Ax](https://github.com/facebook/Ax))\\
 tensorboardx == 2.4\\
 tensorboard_logger == 0.1.0:
 ```
