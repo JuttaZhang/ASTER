@@ -297,8 +297,7 @@ def main_worker(gpu, ngpus_per_node, args, thres):
         if end_flag == False and (1-(flops/flops_init) >= 0.54):
             print("flops drop has already satisfied!")
             end_flag = True
-# 平均每个样本点对于loss的影响率是0.00000045
-# 平均一下前几轮的结果，然后得到一个大概每个数据点或者batch对于loss的贡献率
+
         # evaluate on validation set
         acc1 = validate(val_loader, model, criterion, args)
         if acc1 < 0.1 and epoch >= 4:
